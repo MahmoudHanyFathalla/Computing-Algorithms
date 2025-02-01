@@ -48,6 +48,3 @@ This project is open-source and available under the MIT License.
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue for improvements.
 
-## Contact
-For any inquiries, please contact [Your Name] at [Your Email].
-
