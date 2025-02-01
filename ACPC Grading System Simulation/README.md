@@ -1,4 +1,5 @@
 # ACPC Grading System Simulation
+[View Documentation](./ACPC Grading System Simulation/project.pdf)
 
 ## Overview
 This project simulates the grading process at the Arab Collegiate Programming Contest (ACPC), modeling the arrival and processing of tasks submitted by participants. It provides insights into system performance, including queue lengths, computer utilization, and task completion times.

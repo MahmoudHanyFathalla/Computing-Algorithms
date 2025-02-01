@@ -4,7 +4,7 @@ import numpy as np  # Import the numpy module for numerical operations
 import matplotlib.pyplot as plt  # Import the matplotlib module for plotting
 
 
-def exponential_random(mean):
+def exponential_random(mean): #gg
     """Generate a random number with exponential distribution."""
     return -mean * np.log(1 - random.random())  # Generate an exponential random variable
 
